@@ -5,9 +5,9 @@ Não importa se você é um usuário experiente ou iniciante, um engenheiro, té
 
 O Laboratório Hacker de Campinas é um espaço comunitário, colaborativo que disponibiliza infraestrutura para que entusiastas de tecnologia possam compartilhas ideias, desenvolver seus projetos em áreas como eletrônica, robótica, computação, embarcados ou o que a criatividade e o espaço físico disponível permitir.
 
-##Fotos
-[Album de fotos 2016](https://www.flickr.com/photos/22173788@N05/sets/72157666624565461/)
-[Facebook Eric Lopes](https://www.facebook.com/eric.oliveira.lopes/media_set?set=a.959699694107114&type=1&l=920cf06785)
+## Fotos
+ - [Album de fotos 2016](https://www.flickr.com/photos/22173788@N05/sets/72157666624565461/)
+ - [Facebook Eric Lopes](https://www.facebook.com/eric.oliveira.lopes/media_set?set=a.959699694107114&type=1&l=920cf06785)
 
 ## Agenda
 
