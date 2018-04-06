@@ -1,4 +1,4 @@
-# Materiais e documentações nas organizações do evento Arduino Day Oficial 
+# Documentação para organização do evento Arduino Day no Laboratório Hacker de Campinas
 
 - [ ] [Arduino Day 2014](https://github.com/EstevesDouglas/Arduino-Day/edit/master/Arduino-Day-2014/README.md)
 - [ ] [Arduino Day 2015](https://github.com/EstevesDouglas/Arduino-Day/edit/master/Arduino-Day-2015/README.md)
