@@ -1,3 +1,6 @@
+Lista de itens para organizar o Arduino Day 2018 no Laboratório Hacker de Campinas
+12 Maio 2018
+
 # Organização
 
 - [x] Registrar no site
@@ -14,3 +17,4 @@
 - [ ] Patrocínio 
 - [ ] Call for paper
 - [ ] Call for exposition
+
