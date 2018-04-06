@@ -1,5 +1,6 @@
-Lista de itens para organizar o Arduino Day 2018 no Laboratório Hacker de Campinas
-12 Maio 2018
+itens para organizar o Arduino Day 2018 no Laboratório Hacker de Campinas
+
+# Arduino Day 2018 : 12 Maio (sábado)
 
 # Organização
 
