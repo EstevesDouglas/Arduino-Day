@@ -14,4 +14,5 @@ itens para organizar o Arduino Day 2018 no Laboratório Hacker de Campinas
 - [x] Arte e Cartaz
 - [x] Call for paper
 
+# Link do evento
 - [Arduino Day 2018](https://lhc.net.br/wiki/Evento:2018/05/12_Arduino_Day)
