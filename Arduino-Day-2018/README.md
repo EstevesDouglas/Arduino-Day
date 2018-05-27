@@ -8,14 +8,10 @@ itens para organizar o Arduino Day 2018 no Laboratório Hacker de Campinas
 - [x] Criado evento na página do Hackerpsace
 - [x] Evento Facebook
 - [x] Evento Meetup
-- [ ] Evento no Sympla
+- [x] Evento no Sympla
 - [x] Convidar comunidade para ajudar
 - [x] Lista de atividades
-- [ ] Ideias dos colaboradores
-- [ ] Arte e Cartaz
-- [ ] Lojinha
-- [ ] Cantina LHC
-- [ ] Patrocínio 
-- [ ] Call for paper
-- [ ] Call for exposition
+- [x] Arte e Cartaz
+- [x] Call for paper
 
+- [Arduino Day 2018](https://lhc.net.br/wiki/Evento:2018/05/12_Arduino_Day)
