@@ -8,10 +8,10 @@ itens para organizar o Arduino Day 2019 no Laboratório Hacker de Campinas
 - [x] Criado evento na página do Hackerpsace
 - [x] Evento Facebook
 - [x] Evento Meetup
-- [ ] Evento no Sympla
+- [x] Evento no Sympla
 - [x] Convidar comunidade para ajudar
 - [x] Lista de atividades
-- [ ] Arte e Cartaz
+- [x] Arte e Cartaz
 - [x] Call for paper
 
 # Link do evento
