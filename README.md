@@ -6,4 +6,4 @@
 - [x] [Arduino Day 2017](https://github.com/EstevesDouglas/Arduino-Day/tree/master/Arduino-Day-2017)
 - [x] [Arduino Day 2018](https://github.com/EstevesDouglas/Arduino-Day/tree/master/Arduino-Day-2018)
 - [ ] [Arduino Day 2019](https://github.com/EstevesDouglas/Arduino-Day/tree/master/Arduino-Day-2019)
-
+- [ ] Arduino Day 2020 Cancelado.
